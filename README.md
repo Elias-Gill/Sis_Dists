@@ -1,2 +1,2 @@
 # Sis_Dists
-Tarea 1 de sistemas distribuidos 2023
+- Tarea 2: Servidor y cliente UDP
